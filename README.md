@@ -82,8 +82,8 @@
 
 ### 둘러보기
 
-- **[실제 배포 링크](https://ka02fa9a0d9a2a.user-app.krampoline.com/)**
-- **[api문서](https://bungae.jagaldol.dev:8080/api/docs/swagger)**
+- **[실제 배포 링크](https://ka02fa9a0d9a2a.user-app.krampoline.com/)** - 카테캠 수료로 인한 크램폴린 배포 중단
+- **[api문서](https://server.jagaldol.com/api/docs/swagger)**
 
 ### 깃헙 레포지토리
 
@@ -94,15 +94,13 @@
 
 ### 전체 구성도
 
-<img src="https://cdn.discordapp.com/attachments/1153948062511812643/1172526224959082557/be9c828dfe87ad9b.png?ex=6560a324&is=654e2e24&hm=7703e925a30b864f655556f495c993ca4b6fbe3428e46f0fee515f20dffd2572&" alt="Logo" width="100%"/>
+<img src="https://github.com/Step3-kakao-tech-campus/Team3_FE/assets/137741073/b34e417a-d2bc-4318-8972-635c0a276598" alt="전체 구성도" width="100%"/>
 
 ### FrontEnd 구성도
 
-<img src="https://cdn.discordapp.com/attachments/1153948062511812643/1172526225542090863/f3b2ccd1efc5fc44.png?ex=6560a324&is=654e2e24&hm=c7cc05a28bc1d9ee0de669895066dfabc94b123ab3578c123d78dc7681dbcde7&" alt="Logo" width="100%"/>
+<img src="https://github.com/Step3-kakao-tech-campus/Team3_FE/assets/137741073/00be3e6c-4ae9-4c35-b09c-234e90ca8412" alt="FE 구성도" width="100%"/>
 
-<details>
-
-<summary><h4>ERD(ER - Diagram) - <a href="https://www.erdcloud.com/d/GHYAMbQS9pzC6k8ZB">ERD 협업 링크</a></h4></summary>
+<details><summary><h4>ERD(ER - Diagram) - <a href="https://www.erdcloud.com/d/GHYAMbQS9pzC6k8ZB">ERD 협업 링크</a></h4></summary>
 
 <img src="https://github.com/Step3-kakao-tech-campus/Team3_BE/assets/81746373/d5f7380f-6ee2-4b68-b94f-c588f40829ec" alt="Logo" width="100%"/>
 
